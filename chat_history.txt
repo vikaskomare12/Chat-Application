@@ -1,0 +1,6 @@
+with open(
+"chat_history.txt",
+"a",
+encoding="utf-8"
+) as file:
+    file.write(message+"\n")
