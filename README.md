@@ -54,7 +54,7 @@ ChatApplication/
 
 ### Clone Repository
 
-git clone https://github.com/YOUR_USERNAME/chat-application-python.git
+git clone https://github.com/vikaskomare12/chat-application-python.git
 
 cd chat-application-python
 
@@ -125,12 +125,4 @@ This project helped in understanding:
 * Python Project Structure
 * Version Control using Git and GitHub
 
----
 
-## Author
-
-Vikas Komare
-
-B.Sc. Computer Science Student
-
-Internship Project – Python Programming
